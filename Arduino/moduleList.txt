@@ -1,0 +1,35 @@
+Here is the day-wise schedule
+Day-1 Environment & C Programming
+Arduino introduction
+IDE installation
+Structure of Sketch
+Blinking Led demo pin 13
+C fundamentals
+ 
+Day-2 – Digital and Analog Output/Input
+Task-1 Blinking LED
+Task-2 Playing with RGB LED
+Task-3 Switches/Push buttons
+Task-4 De-bouncing
+Task-5 PWM concepts
+Task-6 Fading LED
+Day-3 – Sensors and Devices
+Task-7 LDR
+Task-8 Pot
+Task-9 Buzzer
+Task-10 Servo
+Task-11 DTH11
+Task-12 Relay
+Day-4 – Serial monitor and debugging
+Task-13 Serial monitor basics
+Task-14 Debugging
+Task-15 Pot + Servo
+Task-16 LDR + Relay
+Task-17 Display
+Task-18 Display + DTH11
+Day-5 Communication
+Task-19 Arduino-Arduino communication
+Day-6
+Task-20 Line following Robo
+Day-7
+Home automation project
