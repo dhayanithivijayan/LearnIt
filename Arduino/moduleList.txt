@@ -17,7 +17,7 @@ Day-3 – Sensors and Devices
 Task-7 LDR
 Task-8 Pot
 Task-9 Buzzer
-Task-10 Servo
+Task-10 Servo -- Intresting Article :: http://toolguyd.com/oscilloscope-arduino-servo-pwm-signal-mistakes/
 Task-11 DTH11
 Task-12 Relay
 Day-4 – Serial monitor and debugging
