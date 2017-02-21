@@ -1,6 +1,5 @@
 //Author : LearnIt Team
 //Receiver
-
 const int led = 13;
 void setup() {
   Serial.begin(9600);
@@ -24,5 +23,6 @@ void loop() {
       Serial.println("Wrong Command");
     }
   }
-
 }
+
+
